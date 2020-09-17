@@ -29,13 +29,13 @@ export default class Home extends Component{
                 <ScrollView>
                 <View style={styles.icon}> 
                     <CardComponent imageSource="1"
-                    likes="101 likes"
+                    likes="500 likes"
                     />
                     <CardComponent imageSource="2"
                     likes="201 likes"
                     />
                     <CardComponent imageSource="3"
-                    likes="301 likes"
+                    likes="1000 likes"
                     />      
                 </View>
                 </ScrollView>    
