@@ -52,7 +52,7 @@ import {Card, CardItem, Thumbnail, Body, Left, Right, Button, Icon} from 'native
                     <Body>
                         <Text>
                             <Text style={{fontStyle:'italic', fontSize:17}}>Ilyas_Hussain   </Text>
-                            Nice Picture Bro
+                            Comment Updated here
                         </Text>
                     </Body>
                 </CardItem>
