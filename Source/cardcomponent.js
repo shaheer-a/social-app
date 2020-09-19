@@ -6,8 +6,8 @@ import {Card, CardItem, Thumbnail, Body, Left, Right, Button, Icon} from 'native
 
         const images={
             "1": require('./img/me21.jpg'),
-            "2": require('./img/me21.jpg'),
-            "3": require('./img/me21.jpg'),
+            "2": require('./img/romeo.jpg'),
+            "3": require('./img/5.jpg'),
 
         }
          return(
@@ -32,11 +32,11 @@ import {Card, CardItem, Thumbnail, Body, Left, Right, Button, Icon} from 'native
                 <CardItem style={{height:45}}>
                     <Left>
                         <Button transparent>
-                            <Icon name='heart'
+                            <Icon name='heart-outline'
                             style={{color:'black'}}/>
                         </Button>
                         <Button transparent>
-                            <Icon name='chatbubbles'
+                            <Icon name='chatbubbles-outline'
                             style={{color:'black'}}/>
                         </Button>
                         <Button transparent>
@@ -52,7 +52,7 @@ import {Card, CardItem, Thumbnail, Body, Left, Right, Button, Icon} from 'native
                     <Body>
                         <Text>
                             <Text style={{fontStyle:'italic', fontSize:17}}>Ilyas_Hussain   </Text>
-                            Comment Updated here
+                            Nice Picture Bro
                         </Text>
                     </Body>
                 </CardItem>
